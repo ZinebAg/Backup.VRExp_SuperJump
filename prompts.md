@@ -84,7 +84,7 @@
 - Player sprites: `characterStand.png`, `characterJump.png`, `characterCrouch.png`
 - Enemy: `img/enemy.png`
 - Antenna: `img/antenna.png`
-- Flag: `img/flag.png`
+- Flag: `img/swisscom_flag.png`
 - Floor: `img/floor.png` (ground tiles)
 - Platform: `img/obstacle.png` (floating platforms)
 

@@ -46,7 +46,7 @@ This project is a browser-based 2D side-scrolling platformer inspired by classic
 | Player Sprites | `characterStand.png`, `characterJump.png`, `characterCrouch.png` | Used to represent player states. |
 | Enemy | `enemy.png` | Moves horizontally along platforms; can be defeated if jumped on while crouched. |
 | Antenna | `antenna.png` | Acts as an instant-death obstacle when touched. |
-| Flag | '@flag.png' | Marks the end of the level. |
+| Flag | '@swisscom_flag.png' | Marks the end of the level. |
 | Antenna | `floor.png` | Floor-Tiles which represent the ground on which the caracter is running. Repeat the tiles to simulate the floor |
 
 ---
